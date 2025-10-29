@@ -8,4 +8,4 @@ The software was developed in **NETBEANS**, and was presented in class along wit
 us for the quality and innovative solution.
 
 ## PLEASE
-You may study and learn from this code, but please do not sell nor make profit with this software. This repository and software is for **EDUCATIONAL PURPOSES ONLY**.
+You may study and learn from this code, but please do not sell nor make profit with this software.
